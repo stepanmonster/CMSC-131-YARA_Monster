@@ -1,0 +1,6 @@
+yara-4.5.5/
+.vscode/
+logs/
+reports/
+samples/
+build/

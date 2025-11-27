@@ -1,3 +1,10 @@
+/*
+ * YARA monster (c) 2025 Stefan Niedes and Dale Louize Almonia
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
 #pragma once
 #include <yara.h>
 #ifdef ERROR
